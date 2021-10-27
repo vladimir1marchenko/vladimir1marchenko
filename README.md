@@ -1,7 +1,7 @@
 ### Hi there, I'm Vladimir Marchenko 👋
 
 
-## I'm a Developer, Head of some department and a nice boy 😏 
+## I'm a Developer, Head of some department and a nice guy 😏 
 
 
 - 👀 I’m interested in DIY, PCB, smart home, programming, automatization, etc.
